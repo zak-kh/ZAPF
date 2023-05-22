@@ -49,13 +49,9 @@ python zapf.py -u https://example.com --wordlist wordlist.txt --proxy socks5://l
 
 Contributions to ZAPF are welcome! If you find any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request on the GitHub repository.
 
-## License
-
-ZAPF is released under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
 ## Credits
 
-ZAPF was developed by [Your Name] and is inspired by the need to efficiently discover admin panels for website security assessment.
+ZAPF was developed by z4 and is inspired by the need to efficiently discover admin panels for website security assessment.
 
 ---
 
