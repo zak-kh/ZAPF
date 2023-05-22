@@ -1,0 +1,6 @@
+requests
+termcolor
+tqdm
+pyfiglet
+socks
+tabulate
